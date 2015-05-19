@@ -1,2 +1,15 @@
 .sass-cache
 *.css.map
+
+# build directory
+dist
+dist/*
+
+# compiled CSS
+src/css/*
+
+# Dependency directories
+node_modules
+bower_components
+src/components
+src/components/*
